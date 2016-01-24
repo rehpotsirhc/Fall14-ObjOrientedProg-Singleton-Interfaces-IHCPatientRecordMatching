@@ -1,0 +1,2100 @@
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 1; NAME: SANTIAGO, YURIDIA; GENDER: Female; DateOfBirth: 03/15/1966; Age: 48
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: YURIDIA S.; GENDER: Female; Age When Survey Taken: 47
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 2; NAME: MEZA, PATRICIA; GENDER: Male; DateOfBirth: 03/15/1966; Age: 48
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: PATRICIA M.; GENDER: Male; Age When Survey Taken: 47
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 3; NAME: STEELE, ANGEL; GENDER: Male; DateOfBirth: 07/20/1981; Age: 33
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ANGEL S.; GENDER: Male; Age When Survey Taken: 32
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 4; NAME: HAYWARD, JETT; GENDER: Male; DateOfBirth: 03/11/1982; Age: 32
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JETT H.; GENDER: Male; Age When Survey Taken: 31
+PATIENT'S RESPONSES: 1, 1, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 5; NAME: DEIBERT, ROGELIO; GENDER: Male; DateOfBirth: 02/15/1983; Age: 31
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROGELIO D.; GENDER: Male; Age When Survey Taken: 30
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 6; NAME: PAUL, VICTORIA; GENDER: Male; DateOfBirth: 04/06/1983; Age: 31
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: VICTORIA P.; GENDER: Male; Age When Survey Taken: 30
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 7; NAME: WILLIAMS, MICHAEL; GENDER: Male; DateOfBirth: 11/20/1983; Age: 30
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL W.; GENDER: Male; Age When Survey Taken: 30
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 8; NAME: LAMKIN, LAURA; GENDER: Male; DateOfBirth: 04/01/1984; Age: 30
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: LAURA L.; GENDER: Male; Age When Survey Taken: 29
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 9; NAME: ENDRES, ELDON; GENDER: Male; DateOfBirth: 08/22/1984; Age: 30
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ELDON E.; GENDER: Male; Age When Survey Taken: 29
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 10; NAME: LANIER, JESUSITA; GENDER: Female; DateOfBirth: 01/14/1985; Age: 29
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JESUSITA L.; GENDER: Female; Age When Survey Taken: 29
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 11; NAME: ROBBINS, JUSTINA; GENDER: Male; DateOfBirth: 05/01/1985; Age: 29
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JUSTINA R.; GENDER: Male; Age When Survey Taken: 28
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 12; NAME: COOK, MARY; GENDER: Male; DateOfBirth: 01/03/1986; Age: 28
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MARY C.; GENDER: Male; Age When Survey Taken: 28
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 13; NAME: SLOAN, CARLOS; GENDER: Male; DateOfBirth: 02/14/1986; Age: 28
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CARLOS S.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 14; NAME: KIRKSEY, MICHAEL; GENDER: Male; DateOfBirth: 02/28/1986; Age: 28
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL K.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 15; NAME: ZAZUETA, ROBERT; GENDER: Male; DateOfBirth: 03/14/1986; Age: 28
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROBERT Z.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 16; NAME: YACOUB, RUTHANN; GENDER: Male; DateOfBirth: 04/22/1986; Age: 28
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: RUTHANN Y.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 17; NAME: WILLIAMS, TROY; GENDER: Male; DateOfBirth: 11/26/1986; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: TROY W.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 18; NAME: BELL, WILLIAM; GENDER: Male; DateOfBirth: 12/02/1986; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: WILLIAM B.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 19; NAME: COLLINS, CONCEPCION; GENDER: Male; DateOfBirth: 12/10/1986; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CONCEPCION C.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 20; NAME: STAFF JR., GABRIEL; GENDER: Male; DateOfBirth: 12/23/1986; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: GABRIEL S.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 21; NAME: BURKS, YOUNG; GENDER: Male; DateOfBirth: 04/13/1987; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: YOUNG B.; GENDER: Male; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 22; NAME: PINA, ADRIAN; GENDER: Male; DateOfBirth: 06/12/1987; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ADRIAN P.; GENDER: Male; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 23; NAME: PRIM, JUDITH; GENDER: Male; DateOfBirth: 06/24/1987; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JUDITH P.; GENDER: Male; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 24; NAME: DEFREITAS, ROBERT; GENDER: Male; DateOfBirth: 09/29/1987; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROBERT D.; GENDER: Male; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 25; NAME: ROBINSON, LISA; GENDER: Male; DateOfBirth: 10/12/1987; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: LISA R.; GENDER: Male; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 26; NAME: ACTON, ELEXIS; GENDER: Female; DateOfBirth: 11/12/1987; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ELEXIS A.; GENDER: Female; Age When Survey Taken: 26
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 27; NAME: LOPEZ, REYES; GENDER: Male; DateOfBirth: 03/09/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: REYES L.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 28; NAME: PETERSON, MICHAEL; GENDER: Male; DateOfBirth: 03/16/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL P.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 29; NAME: SUMMERHILL, RICHARD; GENDER: Male; DateOfBirth: 05/23/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: RICHARD S.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 30; NAME: SANDS, CAROL; GENDER: Male; DateOfBirth: 06/06/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CAROL S.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 31; NAME: FAIRBANKS, JUAN; GENDER: Male; DateOfBirth: 06/18/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JUAN F.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 32; NAME: GONZALES, FRANKY; GENDER: Male; DateOfBirth: 08/12/1988; Age: 26
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: FRANKY G.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 33; NAME: HALL, ROBERT; GENDER: Male; DateOfBirth: 10/21/1988; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROBERT H.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 34; NAME: JOHNSON, JOSE; GENDER: Male; DateOfBirth: 11/12/1988; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JOSE J.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 35; NAME: FELKER, SONG; GENDER: Female; DateOfBirth: 12/14/1988; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: SONG F.; GENDER: Female; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 36; NAME: NEZ, ROBERT; GENDER: Male; DateOfBirth: 12/21/1988; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROBERT N.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 37; NAME: MARTELL, SHIRLEY; GENDER: Male; DateOfBirth: 01/30/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: SHIRLEY M.; GENDER: Male; Age When Survey Taken: 25
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 38; NAME: ESQUIVEL, CYNDI; GENDER: Female; DateOfBirth: 06/01/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CYNDI E.; GENDER: Female; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 39; NAME: MONDAY, MICHAEL; GENDER: Male; DateOfBirth: 07/06/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL M.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 40; NAME: STACK, MICHAEL; GENDER: Male; DateOfBirth: 08/03/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL S.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 41; NAME: MORENO, EMILY; GENDER: Male; DateOfBirth: 08/16/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: EMILY M.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 1, 1, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 42; NAME: HAU, DANA; GENDER: Male; DateOfBirth: 10/25/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DANA H.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 43; NAME: JEFFS, G; GENDER: Male; DateOfBirth: 11/10/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: G J.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 44; NAME: SAGANITSO, RYAN; GENDER: Male; DateOfBirth: 11/23/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: RYAN S.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 45; NAME: ARNAUD, CARLOS; GENDER: Male; DateOfBirth: 11/25/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CARLOS A.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 46; NAME: MORALES, ALICIA; GENDER: Male; DateOfBirth: 11/27/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ALICIA M.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 47; NAME: ALTAMURA SR., JAMES; GENDER: Male; DateOfBirth: 12/10/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JAMES A.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 48; NAME: GUNNELS, ANGEL; GENDER: Male; DateOfBirth: 12/20/1989; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ANGEL G.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 49; NAME: YOUNG, DIANE; GENDER: Male; DateOfBirth: 01/01/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DIANE Y.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 50; NAME: BERGREN, VICTORIA; GENDER: Male; DateOfBirth: 01/27/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: VICTORIA B.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 51; NAME: JOY, MARIA; GENDER: Male; DateOfBirth: 02/13/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MARIA J.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 52; NAME: DAWSON, JOHN; GENDER: Male; DateOfBirth: 03/23/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JOHN D.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 53; NAME: PRATT, SETH; GENDER: Male; DateOfBirth: 05/09/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: SETH P.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 54; NAME: RENO, ROBERT; GENDER: Male; DateOfBirth: 06/02/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ROBERT R.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 55; NAME: WHIPPLE, MICHAEL; GENDER: Male; DateOfBirth: 06/09/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL W.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 56; NAME: SPEER, MICHAEL; GENDER: Male; DateOfBirth: 08/04/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL S.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 1, 1, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 57; NAME: ARBIZU, EDWARD; GENDER: Male; DateOfBirth: 08/15/1990; Age: 24
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: EDWARD A.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 58; NAME: ESCALANTE, LORI; GENDER: Male; DateOfBirth: 10/01/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: LORI E.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 59; NAME: MIRANDA, REY; GENDER: Male; DateOfBirth: 10/06/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: REY M.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 60; NAME: KOPALD, LEXY; GENDER: Male; DateOfBirth: 10/27/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: LEXY K.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 61; NAME: YELLOWMAN, EMILY; GENDER: Male; DateOfBirth: 10/27/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: EMILY Y.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 62; NAME: OSTRANDER, LORI; GENDER: Male; DateOfBirth: 11/06/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: LORI O.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 63; NAME: NICE, DAVID; GENDER: Male; DateOfBirth: 11/15/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID N.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 64; NAME: SHARPE, MARIA; GENDER: Male; DateOfBirth: 11/17/1990; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MARIA S.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 65; NAME: ACUNA, DAVID; GENDER: Male; DateOfBirth: 11/27/1986; Age: 27
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID A.; GENDER: Male; Age When Survey Taken: 27
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 66; NAME: ARAGON, DAVID; GENDER: Male; DateOfBirth: 01/23/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID A.; GENDER: Male; Age When Survey Taken: 23
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 67; NAME: NEUBERT, MARY; GENDER: Male; DateOfBirth: 03/18/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MARY N.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 68; NAME: PABLO, DAVID; GENDER: Male; DateOfBirth: 04/09/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID P.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 1, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 69; NAME: CHARLEY, DAVID; GENDER: Male; DateOfBirth: 04/27/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID C.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 70; NAME: MALONE, ADAN; GENDER: Male; DateOfBirth: 05/06/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ADAN M.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 71; NAME: GARDUNO, CASSANDRA; GENDER: Male; DateOfBirth: 05/06/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CASSANDRA G.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 72; NAME: SYKES, MAY; GENDER: Male; DateOfBirth: 05/08/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MAY S.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 73; NAME: MARTIMICK, BRIAN; GENDER: Male; DateOfBirth: 05/26/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: BRIAN M.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 74; NAME: FRIED, AHMED; GENDER: Male; DateOfBirth: 05/26/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: AHMED F.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 75; NAME: TREECE, DAVID; GENDER: Male; DateOfBirth: 06/15/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID T.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 76; NAME: HAAG, RICHARD; GENDER: Male; DateOfBirth: 07/06/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: RICHARD H.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 77; NAME: ZAMORANO, WILLIAM; GENDER: Male; DateOfBirth: 08/25/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: WILLIAM Z.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 78; NAME: POBLANO, KARRIE; GENDER: Male; DateOfBirth: 08/27/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: KARRIE P.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 79; NAME: SPADAFORE, AMY; GENDER: Male; DateOfBirth: 08/28/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: AMY S.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 80; NAME: LEAVITT, JADE; GENDER: Male; DateOfBirth: 09/08/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JADE L.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 81; NAME: TOLER, MICHAEL; GENDER: Male; DateOfBirth: 09/09/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL T.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 1, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 82; NAME: BREWER, ELIZABETH; GENDER: Male; DateOfBirth: 09/14/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ELIZABETH B.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 83; NAME: DAWN, DUSTIN; GENDER: Male; DateOfBirth: 09/14/1991; Age: 23
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DUSTIN D.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 84; NAME: HOFFNER, MILTON; GENDER: Male; DateOfBirth: 09/22/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MILTON H.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 85; NAME: SILVA, DAVID; GENDER: Male; DateOfBirth: 09/29/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAVID S.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 86; NAME: LEES, RODNEY; GENDER: Male; DateOfBirth: 10/19/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: RODNEY L.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 87; NAME: LIVINGSTON, CORI; GENDER: Male; DateOfBirth: 11/16/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CORI L.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 88; NAME: DOMINQUEZ, OMAR; GENDER: Male; DateOfBirth: 11/21/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: OMAR D.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 89; NAME: ESQUIVIAS, CHARLES; GENDER: Male; DateOfBirth: 12/07/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CHARLES E.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 90; NAME: BURKHART, HARRIET; GENDER: Male; DateOfBirth: 12/26/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: HARRIET B.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 91; NAME: DAVIS, MICHAEL; GENDER: Male; DateOfBirth: 12/29/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL D.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 92; NAME: AMAVIZCA, ALEX; GENDER: Male; DateOfBirth: 12/30/1991; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ALEX A.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 93; NAME: WEBB, JESUS; GENDER: Male; DateOfBirth: 01/18/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JESUS W.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 94; NAME: BECK, MICHAEL; GENDER: Male; DateOfBirth: 01/24/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL B.; GENDER: Male; Age When Survey Taken: 22
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 95; NAME: STRUCK, MARIA; GENDER: Male; DateOfBirth: 03/02/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MARIA S.; GENDER: Male; Age When Survey Taken: 21
+PATIENT'S RESPONSES: 1, 0, 0, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 96; NAME: ALVA, ALEC; GENDER: Female; DateOfBirth: 03/15/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: ALEC A.; GENDER: Female; Age When Survey Taken: 21
+PATIENT'S RESPONSES: 0, 0, 0, 0, 1, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 97; NAME: LAPRADA, DAMON; GENDER: Male; DateOfBirth: 03/21/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: DAMON L.; GENDER: Male; Age When Survey Taken: 21
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 98; NAME: WINGO, CHANCE; GENDER: Female; DateOfBirth: 04/04/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: CHANCE W.; GENDER: Female; Age When Survey Taken: 21
+PATIENT'S RESPONSES: 1, 0, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 99; NAME: BARR, JESSE; GENDER: Male; DateOfBirth: 04/13/1992; Age: 22
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: JESSE B.; GENDER: Male; Age When Survey Taken: 21
+PATIENT'S RESPONSES: 1, 0, 1, 1, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
+==================================================================BEGIN PATIENT RECORD==================================================================
+
+PATIENT'S INFO:
+ID: 100; NAME: CHEEVER, MICHAEL; GENDER: Male; DateOfBirth: 09/17/1989; Age: 25
+
+PATIENT'S SURVEY RECORDS: 
+
+++++++++++++++++++++++++++++++++++++++++START OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+SURVEY NAME: A COOL SURVEY 
+QUESTIONS: Is OOP the coolest or what?, Do you like C# or Java better?, Did you eat a nutritious breakfast?, Really, OOP is the best, Are there two question 5s?, 
+
+PATIENT'S INFO COLLECTED WITH SURVEY: NAME: MICHAEL C.; GENDER: Male; Age When Survey Taken: 24
+PATIENT'S RESPONSES: 0, 1, 1, 0, 0, 
+
+++++++++++++++++++++++++++++++++++++++++END OF SURVEY RECORD++++++++++++++++++++++++++++++++++++++++
+
+==================================================================END PATIENT RECORD==================================================================
+
+
+
